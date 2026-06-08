@@ -5,4 +5,4 @@ To master the core Python ecosystem for Data Science, focusing on data cleaning,
 ## Tech Stack 
 **Numpy** : Mathematical computing and array operations.
 ## Repository Structure 
-**Numpy_Operations**:Basic array creations, broadcasting, and matrix operations.
+**01_Numpy**:Basic array creations, broadcasting, and matrix operations.
