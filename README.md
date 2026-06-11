@@ -6,3 +6,4 @@ To master the core Python ecosystem for Data Science, focusing on data cleaning,
 **Numpy** : Mathematical computing and array operations.
 ## Repository Structure 
 **01_Numpy**:Basic array creations, broadcasting, and matrix operations.
+**02_Pandas_Series**:A collection of practical exercises focused on exploring, cleaning, and manipulating data with Pandas Series.
